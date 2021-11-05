@@ -1,3 +1,3 @@
-# cloud-first-data-science-community
+# operate-first-data-science-community
 
-GitHub home of cloud first data science community content
+GitHub home of operate first data science community content
