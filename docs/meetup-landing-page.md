@@ -11,7 +11,7 @@ Open an [issue](https://github.com/aicoe-aiops/cloud-first-data-science-communit
 
 ## Ways to Participate
 
-* Mark your [calendar.](https://calendar.google.com/calendar/r?eid=X2VkcG40bGI3YnQ4NjJnYmg4b3JtdWpyODZkMDRvaHI2ZjFobW91Ymk4OTc2bW9xaDk1cGcgYWR1Z2dhbEByZWRoYXQuY29t&ctok=YWR1Z2dhbEByZWRoYXQuY29t) 
+* Mark your calendar for every second and fourth Tuesday of the month.
 * Introduce yourself on [slack.](https://operatefirst.slack.com/archives/C02KY881CJE )
 * Present or suggest a topic by creating an issue [here.](https://github.com/aicoe-aiops/cloud-first-data-science-community/issues/new/choose) 
 * Sign up for the [mailing list.](https://lists.operate-first.cloud/admin/lists/community.lists.operate-first.cloud/)
