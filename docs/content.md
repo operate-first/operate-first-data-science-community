@@ -2,7 +2,13 @@
 
 This document contains all the topics that are being presented in the meetup.
 
-* November 16 2021
+* December 7, 2021
+
+  **Inaugural Meeting**
+
+  What is Operate First for Data Science?
+  
+* December 21, 2021
 
     * **Cloud-native Data Science development**
       *  Presented by Christoph Goern
@@ -10,9 +16,3 @@ This document contains all the topics that are being presented in the meetup.
     * **Deploy Jupyter Lab or Notebooks easily with Operate First**
       * Presented by Michael Clifford 
       * In this session, learn how to get up and running with either a classic Jupyter notebook or a Jupyter lab instance with Operate First and start doing data science in the cloud!
-
-* December 2021
-
-    * Topic1
-    * Topic2 
-
