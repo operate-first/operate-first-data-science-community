@@ -2,16 +2,15 @@
 
 ## Upcoming 
 
-December 14th, 2021
-
-**Build your own JupyterHub image with aicoe-ci**
-
-* Presented by Karan Chauhan
-* Learn how to package your own data science content into container images using a simple CI tool, aicoe-ci, and share it as a reproducible data science development environment on JupyterHub.  
-
-
+January 25th, 2022 - TBD
 
 ## Past Events
+
+December 14th, 2021 - **Build your own JupyterHub image with aicoe-ci**
+
+* Presented by Karan Chauhan
+* Learn how to package your own data science content into container images using a simple CI tool, aicoe-ci, and share it as a reproducible data science development environment on JupyterHub.
+* [Video Recording](https://youtu.be/vtyumrV-LgA)
 
 November 30, 2021 - **Reproducibility and Dependencies for Jupyter Notebooks**
 
