@@ -2,7 +2,12 @@
 
 ## Upcoming 
 
-January 25th, 2022 - TBD
+January 25th, 2022 
+
+**Create an AI pipeline on ODH using Elyra, Kubeflow and Tekton**
+* By Oindrilla Chatterjee
+* In this session, learn how you can automate your data science workflow and run your notebooks in a automated fashion by creating an AI pipeline using Elyra, Kubeflow and Tekton.
+
 
 ## Past Events
 
