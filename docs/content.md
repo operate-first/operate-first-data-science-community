@@ -2,14 +2,20 @@
 
 ## Upcoming 
 
-January 25th, 2022 
+February 8th, 2022
 
-**Create an AI pipeline on ODH using Elyra, Kubeflow and Tekton**
-* By Oindrilla Chatterjee
-* In this session, learn how you can automate your data science workflow and run your notebooks in a automated fashion by creating an AI pipeline using Elyra, Kubeflow and Tekton.
-
+**Using Operate First for OS-Climate NLP model inference**
+* By Shrey Anand
+* In this talk, learn how to use Open Data Hub services on the Operate First infrastructure to create an end to end inference pipeline for a Natural language processing model.
 
 ## Past Events
+
+January 25th, 2022 - **Create an AI pipeline on ODH using Elyra, Kubeflow and Tekton**
+
+* By Oindrilla Chatterjee
+* In this session, learn how you can automate your data science workflow and run your notebooks in an automated fashion by creating an AI pipeline using Elyra, Kubeflow and Tekton.
+* [Video Recording](https://youtu.be/M8s74HGeT7I)
+
 
 December 14th, 2021 - **Build your own JupyterHub image with aicoe-ci**
 
