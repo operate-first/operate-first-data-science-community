@@ -2,13 +2,20 @@
 
 ## Upcoming 
 
-February 8th, 2022
+February 22nd, 2022
 
-**Using Operate First for OS-Climate NLP model inference**
-* By Shrey Anand
-* In this talk, learn how to use Open Data Hub services on the Operate First infrastructure to create an end to end inference pipeline for a Natural language processing model.
+**Anomaly detection using Hierarchical Temporal Memory (HTM) algorithm on operate first CPU data**
+
+* By Surya Prakash Pathak
+* In this talk, get introduced to the concept of HTM algorithm, followed by its application to anomaly detection on operate first CPU usage data.
 
 ## Past Events
+
+February 8th, 2022 - **Using Operate First for OS-Climate NLP model inference**
+
+* By Shrey Anand
+* In this talk, learn how to use Open Data Hub services on the Operate First infrastructure to create an end to end inference pipeline for a Natural language processing model.
+* [Video Recoding](https://youtu.be/p61yvqb_bKY)
 
 January 25th, 2022 - **Create an AI pipeline on ODH using Elyra, Kubeflow and Tekton**
 
