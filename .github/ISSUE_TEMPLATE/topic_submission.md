@@ -1,6 +1,6 @@
 ---
 name: Topic Submission 
-about: Suggest an idea to present at an upcoming cloud first data science community meetup.
+about: Suggest an idea to present at an upcoming operate first data science community meetup.
 ---
 
 ## Please provide the following info about your topic submission
@@ -19,3 +19,7 @@ Any information you'd like to provide about yourself, the presenter. This may in
 
 **Additional Info**
 If applicable, please provide links to any relevant blogs, videos, git repos, etc relating to the suggested presentation. 
+
+**Accepted**
+- [ ] Yes
+- [ ] No
