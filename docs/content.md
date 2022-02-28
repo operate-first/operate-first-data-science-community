@@ -2,14 +2,21 @@
 
 ## Upcoming 
 
-February 22nd, 2022
+March 8th, 2022
 
-**Anomaly detection using Hierarchical Temporal Memory (HTM) algorithm on operate first CPU data**
+**Operate First Cluster Infrastructure**
+
+* By Humair Khan
+* In this talk, get an overview of the Operate-First Cloud Instance. The overview will cover all the clusters currently being managed by the Operate-First operations team.
+* Learn how these services are deployed on the operate first cluster, how you can get access to them, and how to contribute and participate in the Operate First Operations.
+
+## Past Events
+
+February 22nd, 2022 - **Anomaly detection using Hierarchical Temporal Memory (HTM) algorithm on operate first CPU data**
 
 * By Surya Prakash Pathak
 * In this talk, get introduced to the concept of HTM algorithm, followed by its application to anomaly detection on operate first CPU usage data.
-
-## Past Events
+* [Video Recording](https://youtu.be/t7LeAYBNRKA)
 
 February 8th, 2022 - **Using Operate First for OS-Climate NLP model inference**
 
