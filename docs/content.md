@@ -2,15 +2,22 @@
 
 ## Upcoming 
 
-March 8th, 2022
+March 22nd, 2022
 
-**Operate First Cluster Infrastructure**
+**Sandiego**
+
+* By Cali Dolfi and James Kunstle
+* In this talk, get an overview of Project Sandiego out of Red Hat’s Open Source Program office. 
+* Get an understanding of the goals of the project, the tooling currently available, and what is currently in development.
+
+## Past Events
+
+March 8th, 2022 - **Operate First Cluster Infrastructure**
 
 * By Humair Khan
 * In this talk, get an overview of the Operate-First Cloud Instance. The overview will cover all the clusters currently being managed by the Operate-First operations team.
 * Learn how these services are deployed on the operate first cluster, how you can get access to them, and how to contribute and participate in the Operate First Operations.
-
-## Past Events
+* [Video Recording](https://youtu.be/dBp0iYU70iE)
 
 February 22nd, 2022 - **Anomaly detection using Hierarchical Temporal Memory (HTM) algorithm on operate first CPU data**
 
