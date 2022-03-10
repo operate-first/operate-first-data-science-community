@@ -1,6 +1,6 @@
 # Operate First Data Science Community Meetup
 
-The Operate First Data Science Community Meetup is a monthly event open to everyone interested in learning more about how various individuals, teams, and online communities are working towards democratizing the development of production-level AI. 
+The Operate First Data Science Community Meetup is an event open to everyone interested in learning more about how various individuals, teams, and online communities are working towards democratizing the development of production-level AI. 
 
 This meetup aims to embrace the multi-disciplinary nature of the current state of AI operations and cloud infrastructure by covering technical topics relevant to data scientists, software engineers, DevOps professionals, and statisticians alike. And all in an open public forum.  
 
