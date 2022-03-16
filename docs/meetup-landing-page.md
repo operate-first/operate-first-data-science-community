@@ -27,6 +27,10 @@ Open an [issue](https://github.com/aicoe-aiops/cloud-first-data-science-communit
 * Each meetup will be online where a member(s) of the community will provide a 15-45 minute presentation on a relevant topic or project followed by a Q+A session or open discussion.
 * Meetings will be recorded and posted to our [youtube channel](https://www.youtube.com/channel/UCe87bwqlGoBQs2RvMQZ5_sg).
 
+## Privacy Policy
+
+This [policy document](privacy-policy.md) explains how the Operate First Data Science Community Meetup (“we” / “us” / “our”) collects, stores, and uses attendees’ personal information.
+
 ## Contact
 
 This meetup is hosted by Red Hat’s AI CoE, part of the Office of the CTO and the [Operate First initiative](https://www.operate-first.cloud/) and we can be reached by [slack](https://join.slack.com/t/operatefirst/shared_invite/zt-o2gn4wn8-O39g7sthTAuPCvaCNRnLww) or via our [email list](https://lists.operate-first.cloud/admin/lists/community.lists.operate-first.cloud/). 
