@@ -10,6 +10,7 @@ April 5th, 2022
 * In this session, the speakers introduce AI4CI (Artificial Intelligence for Continuous Integration), a collection of open-source AIOps tools involving open operations data made available by Kubernetes testing and visualization platforms. 
 * The speakers will demonstrate how they developed a set of Jupyter Notebooks which are automated using Kubeflow Pipelines into repeatable processes that collect data from various open CI/CD data platforms, calculate and visualize key performance indicator metrics, build AI/ML services to support operations and create a reproducible workflow around these processes.
 * In this session, attendees learn about a set of AIOps services deployed on Operate First that they can start using and get familiarized with how to use the set of tools available on the Operate First cloud to deploy their own workloads.
+* [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup9.pdf)
 
 ## Past Events
 
