@@ -7,6 +7,9 @@ April 19th, 2022
 **Distributed ML workloads on OpenShift**
 
 * By Selbi Nuryyeva
+* As the datasets and models get bigger, the demand for more powerful and efficient GPUs is rapidly increasing. Oftentimes a  single GPU is not adequate for an ML use case. An alternative to upgrading the GPU hardware is to distribute the ML workload either across several GPUs on one node, or across multiple nodes each containing one or several GPUs. The ability for the latter is especially preferred when a single machine can fit only so many GPUs. 
+* In this talk, we will explore how one can distribute a machine learning workflow across several nodes with GPU hardware in a cloud environment. We will use PyTorch to carry out the ML training and Kubeflow, Node Feature Discovery and GPU operators to distribute the ML workload.
+* The attendees will understand how to overcome the GPU hardware limits of a single node training by taking advantage of GPUs on other machines, and therefore, maximizing the utilization of GPUs in an open cloud environment.
 
 ## Past Events
 
