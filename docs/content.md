@@ -2,16 +2,23 @@
 
 ## Upcoming 
 
-April 19th, 2022
+May 3rd, 2022
 
-**Distributed ML workloads on OpenShift**
+**Data Obfuscation Techniques**
+
+* By Surya Prakash Pathak
+* A common scenario encountered by data scientists is sharing confidential and sensitive data with others. A lot of data we collect today can easily be linked to an individual, household, or entity. What should we do when we need to share these data with others? One of the methods to anonymize personal and confidential data is by using data obfuscation techniques. Data obfuscation is the process of replacing sensitive information with data that looks like real production information, making it useless to malicious actors.
+* In this talk, we will get introduced to different hashing techniques used for data obfuscation. In addition to this, we will also go over the obfuscation technique we used for obfuscating meetup attendees' data.
+
+## Past Events
+
+April 19th, 2022 - **Distributed ML workloads on OpenShift**
 
 * By Selbi Nuryyeva
 * As the datasets and models get bigger, the demand for more powerful and efficient GPUs is rapidly increasing. Oftentimes a  single GPU is not adequate for an ML use case. An alternative to upgrading the GPU hardware is to distribute the ML workload either across several GPUs on one node, or across multiple nodes each containing one or several GPUs. The ability for the latter is especially preferred when a single machine can fit only so many GPUs. 
 * In this talk, we will explore how one can distribute a machine learning workflow across several nodes with GPU hardware in a cloud environment. We will use PyTorch to carry out the ML training and Kubeflow, Node Feature Discovery and GPU operators to distribute the ML workload.
 * The attendees will understand how to overcome the GPU hardware limits of a single node training by taking advantage of GPUs on other machines, and therefore, maximizing the utilization of GPUs in an open cloud environment.
-
-## Past Events
+* [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup10.pdf) and [Video Recording](https://youtu.be/rFaoM61dglM)
 
 April 5th, 2022 - **AI4CI - Artificial Intelligence for Continuous Integration**
 
