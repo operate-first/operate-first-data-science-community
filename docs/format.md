@@ -29,7 +29,7 @@ Thank the speaker and all the attendees for taking out some time to attend the m
 
 ## After the session
 
-* Edit the video recording and post it to Operate First [YouTube Channel.](https://youtube.com/playlist?list=PL8VBRDTElCWqC5WcZUUNJxGn9WslK6llb)
+* Edit the video recording and post it to Operate First [YouTube Channel.](https://youtube.com/playlist?list=PL8VBRDTElCWqC5WcZUUNJxGn9WslK6llb). The title of the video should include the name of the topic presented and Operate First Data Science Community Meetup #Number. This is how it should look like - for e.g. `Operate First Cloud Instance | Operate First Data Science Community Meetup 7`.
 * Export the list of attendees to google drive.
 * Send out an email updating the attendees about the presentation and the video recording of the previous Operate First Data Science Community Meetup.
 * Send out a tweet from the operate-first Twitter account with the previous meetup's video link by adding a PR [here](https://github.com/operate-first/operate-first-twitter).
