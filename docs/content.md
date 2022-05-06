@@ -2,15 +2,20 @@
 
 ## Upcoming 
 
-May 3rd, 2022
+May 17th, 2022
 
-**Data Obfuscation Techniques**
+**Bringing AI and Machine Learning into Operation**
+
+* By Audrey Reznik
+
+## Past Events
+
+May 3rd, 2022 - **Data Obfuscation Techniques**
 
 * By Surya Prakash Pathak
 * A common scenario encountered by data scientists is sharing confidential and sensitive data with others. A lot of data we collect today can easily be linked to an individual, household, or entity. What should we do when we need to share these data with others? One of the methods to anonymize personal and confidential data is by using data obfuscation techniques. Data obfuscation is the process of replacing sensitive information with data that looks like real production information, making it useless to malicious actors.
 * In this talk, we will get introduced to different hashing techniques used for data obfuscation. In addition to this, we will also go over the obfuscation technique we used for obfuscating meetup attendees' data.
-
-## Past Events
+* [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup11.pdf) and [Video Recording](https://youtu.be/aj-THe9fFIQ)
 
 April 19th, 2022 - **Distributed ML workloads on OpenShift**
 
