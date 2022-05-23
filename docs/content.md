@@ -2,17 +2,15 @@
 
 ## Upcoming 
 
-May 17th, 2022
+## Past Events
 
-**Bringing AI and Machine Learning into Operation**
+May 17th, 2022 - **Bringing AI and Machine Learning into Operation**
 
 * By Audrey Reznik
 * As a Data Scientist it is often difficult to know where to start your project.  Do I test and build my model in an IDE?  If I build and test my model in an IDE, how do I connect to my resources such as streaming data or databases?  How can I optimize my model inference performance?  Once I have optimized my model how do I easily deploy and manage it?  Plus what options are available for me to deploy onPrem or in a Hybrid cloud environment?
 * In this session we will discuss an easy way to build, test, train and deploy high performant models using a variety of platforms and tools created for OpenShift.
 * The attendees will learn about what is Open Datahub, Red Hat OpenShift Data Science and Managed Services.
-
-
-## Past Events
+* [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup12.pdf) and [Video Recording](https://youtu.be/mHa2O116RS8)
 
 May 3rd, 2022 - **Data Obfuscation Techniques**
 
