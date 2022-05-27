@@ -2,6 +2,15 @@
 
 ## Upcoming 
 
+May 31st, 2022
+
+**copilot-ops: Go From Zero to DevOps Hero in Under 10 Seconds**
+
+* By Oleg Silkin
+* In the age of cloud-native computing, Kubernetes has taken the world by storm, forcing many of us to spend more time on Google than we should, just to become YAML experts. This ends up being a time-consuming process, as many of the YAMLs share a similar structure with differing values based on the specifics of your deployment. 
+* **copilot-ops** is a CLI tool which supercharges your DevOps capabilities by allowing the user to specify what needs to be created/changed, along with some files to provide context on what values the resulting YAML should use.
+* By the end of this talk, attendees will know how to use copilot-ops to supercharge their DevOps capabilities and quickly generate or edit desired YAML files at a moment's notice. Attendees will also walk away with a basic understanding of how Generative Pre-Trained Transformer 3 (GPT-3) can be used for code-generation tasks.
+
 ## Past Events
 
 May 17th, 2022 - **Bringing AI and Machine Learning into Operation**
