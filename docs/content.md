@@ -2,16 +2,32 @@
 
 ## Upcoming 
 
-May 31st, 2022
+June 28th, 2022
 
-**copilot-ops: Go From Zero to DevOps Hero in Under 10 Seconds**
+**The Future of the Operate First Data Science Community**
+
+* Presented by Michael Clifford
+* The presenter will be discussing some upcoming changes to the Operate First Data Science community at large. Specifically, it's transition from its current state to an official Special Interest Group (SIG) governed by the Operate First community. He will be explaining what becoming a SIG means, reviewing the community's goals and purposes, and presenting the draft SIG charter for which community input and feedback would be much appreciated. 
+* By the end of this talk, attendees will have a better grasp of how the Operate First Data Science community is growing as well has having the opportunity to share their opinions and provide feedback on its future direction.
+
+## Past Events
+
+June 14th, 2022 - **Project Thoth - Python Dependecy Management and Jupyter Notebook Extensions**
+
+* Presented by Harshad Reddy Nalla and Maya Costantini
+* The presenters will go over Python dependency management by Project Thoth and how to use the new extension in Jupyter Notebook experiences.
+* By the end of this session, attendees will learn the importance of reproducibility, Thoth recommendation using the Thoth CLI Thamos and how to use the Thoth Jupyterlab extension for Python projects. We will be able to manage dependencies in an easy manner benefiting from Thoth recommendations in jupyterhub or in the command line. This session would include a presentation and a demo.
+* [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup14.pdf) and [Video Recording](https://youtu.be/ixSeFDXfPq4)
+
+
+
+May 31st, 2022 - **copilot-ops: Go From Zero to DevOps Hero in Under 10 Seconds**
 
 * By Oleg Silkin
 * In the age of cloud-native computing, Kubernetes has taken the world by storm, forcing many of us to spend more time on Google than we should, just to become YAML experts. This ends up being a time-consuming process, as many of the YAMLs share a similar structure with differing values based on the specifics of your deployment. 
 * **copilot-ops** is a CLI tool which supercharges your DevOps capabilities by allowing the user to specify what needs to be created/changed, along with some files to provide context on what values the resulting YAML should use.
 * By the end of this talk, attendees will know how to use copilot-ops to supercharge their DevOps capabilities and quickly generate or edit desired YAML files at a moment's notice. Attendees will also walk away with a basic understanding of how Generative Pre-Trained Transformer 3 (GPT-3) can be used for code-generation tasks.
-
-## Past Events
+* [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup13.pdf) and [Video Recording](https://youtu.be/eB6JNAaWMUE)
 
 May 17th, 2022 - **Bringing AI and Machine Learning into Operation**
 
