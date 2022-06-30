@@ -2,15 +2,23 @@
 
 ## Upcoming 
 
-June 28th, 2022
+July 12th, 2022
 
-**The Future of the Operate First Data Science Community**
+**CCO: a next generation cost optimizer for complex cloud workloads**
+
+* Presented by Ilya Kolchinsky and Adi Yehoshua
+* In this session, learn about CCO - a novel optimization engine for minimizing cloud (AWS, Azure, etc.) costs for complex workloads (i.e., with up to hundreds/thousands of applications and/or components).
+* The goal of CCO is to calculate the best possible assignment of tasks or application components to cloud instances such that the total monetary cost is minimized or at the very least does not exceed a predefined budget. To that end, the engine periodically collects up-to-date resource prices and statistics, then utilizes advanced algorithmic approaches and machine learning to solve the optimization problem. 
+* This project is done jointly with the Technion, Israel Institute of Technology, as a part of a broader partnership.
+
+## Past Events
+
+June 28th, 2022 - **The Future of the Operate First Data Science Community**
 
 * Presented by Michael Clifford
 * The presenter will be discussing some upcoming changes to the Operate First Data Science community at large. Specifically, it's transition from its current state to an official Special Interest Group (SIG) governed by the Operate First community. He will be explaining what becoming a SIG means, reviewing the community's goals and purposes, and presenting the draft SIG charter for which community input and feedback would be much appreciated. 
 * By the end of this talk, attendees will have a better grasp of how the Operate First Data Science community is growing as well has having the opportunity to share their opinions and provide feedback on its future direction.
-
-## Past Events
+* [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup15.pdf) and [Video Recording](https://youtu.be/SsS5QvpDbdA)
 
 June 14th, 2022 - **Project Thoth - Python Dependecy Management and Jupyter Notebook Extensions**
 
