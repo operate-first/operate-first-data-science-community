@@ -25,11 +25,27 @@ Thank the speaker and all the attendees for taking out some time to attend the m
 ## Before the session 
 
 * Send out an email invite to certain target groups, briefing them about the upcoming Operate First Data Science Community Meetup.
+* As of now we are sending this update to only a few AI/ML target groups like the following - 
+``` 
+To : 
+community@lists.operate-first.cloud
+bcc:
+cto-dept <cto-dept@redhat.com>,
+AI-ILT <ai-ilt@redhat.com>,
+data-hub-users@redhat.com,
+artificial-intelligence <artificial-intelligence@redhat.com>,
+aiservices-bu@redhat.com,
+aiservices-devel <aiservices-devel@redhat.com>,
+ai-ml-cop@redhat.com,
+et-dept <et-dept@redhat.com>,
+AICoE <AICoE@redhat.com>
+```
 * Send out a tweet from the operate-first Twitter account by adding a PR [here](https://github.com/operate-first/operate-first-twitter).
 
 ## After the session
 
 * Edit the video recording and post it to Operate First [YouTube Channel.](https://youtube.com/playlist?list=PL8VBRDTElCWqC5WcZUUNJxGn9WslK6llb). The title of the video should include the name of the topic presented and Operate First Data Science Community Meetup #Number. This is how it should look like - for e.g. `Operate First Cloud Instance | Operate First Data Science Community Meetup 7`.
 * Export the list of attendees to google drive.
+* Reach out to the presenter to either share the presentation in pdf format or directly add a PR with slide deck [here](https://github.com/operate-first/operate-first-data-science-community/tree/main/docs/content) and sticking to the naming convention like `opfmeetup<number>.pdf` 
 * Send out an email updating the attendees about the presentation and the video recording of the previous Operate First Data Science Community Meetup.
 * Send out a tweet from the operate-first Twitter account with the previous meetup's video link by adding a PR [here](https://github.com/operate-first/operate-first-twitter).
