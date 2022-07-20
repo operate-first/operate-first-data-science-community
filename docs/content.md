@@ -2,16 +2,21 @@
 
 ## Upcoming 
 
-July 12th, 2022
+July 26th 2022
 
-**CCO: a next generation cost optimizer for complex cloud workloads**
+**Future of the Operate First Data Science Community**
+
+* An open discussion led by Karsten Wade.
+
+## Past Events
+
+July 12th, 2022 - **CCO: a next generation cost optimizer for complex cloud workloads**
 
 * Presented by Ilya Kolchinsky and Adi Yehoshua
 * In this session, learn about CCO - a novel optimization engine for minimizing cloud (AWS, Azure, etc.) costs for complex workloads (i.e., with up to hundreds/thousands of applications and/or components).
 * The goal of CCO is to calculate the best possible assignment of tasks or application components to cloud instances such that the total monetary cost is minimized or at the very least does not exceed a predefined budget. To that end, the engine periodically collects up-to-date resource prices and statistics, then utilizes advanced algorithmic approaches and machine learning to solve the optimization problem. 
 * This project is done jointly with the Technion, Israel Institute of Technology, as a part of a broader partnership.
-
-## Past Events
+* [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup16.pdf) and [Video Recording](https://youtu.be/PxLbo1USjqU)
 
 June 28th, 2022 - **The Future of the Operate First Data Science Community**
 
