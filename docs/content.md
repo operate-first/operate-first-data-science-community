@@ -4,9 +4,12 @@
 
 July 26th 2022
 
-**Future of the Operate First Data Science Community**
+**Future of the Operate First Data Science Community - Expanding the organizers of the meetup**
 
-* An open discussion led by Karsten Wade.
+* Presented by Karsten Wade
+* One of the first public faces of the Operate First project was the early iterations of the Operate First Data Science Community Meetup, and it has grown to be a popular and recognizable aspect of this community. Along the way, it has had multiple hands in front of and behind the camera to curate the meetup space. The managing, organizing, and running of the meetups is a fairly well-understood process that can be run by one or two people, but should it be run by one or two people? By scaling it beyond just one pair of hands, a group of people who care about the meetup can help steward it into the future, without the meetup being dependent on one person's evolving job role.
+* Are you someone who cares about the Operate First Data Science Meetup? Can you lend some voice to the value this meetup has for you? Would you want to help make the meetup happen through a small time commitment and collaboration with a group of meetup organizers?
+* Let's have an open discussion about how we can scale the meetup process so more of us can get the benefits of helping define and continue the Data Science Meetup. Karsten will give a brief overview of the Operate First project and how data science is central to the project's mission. He'll also talk about the value of connection points like meetups, and how and why you can participate in many ways to add to this meetup's success.
 
 ## Past Events
 
