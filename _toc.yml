@@ -2,6 +2,6 @@ format: jb-book
 root: docs/meetup-landing-page
 parts:
   - caption: Operate First Data Science Community
-    chapters: 
+    chapters:
     - file: docs/content
-    - file: docs/privacy-policy 
+    - file: docs/privacy-policy

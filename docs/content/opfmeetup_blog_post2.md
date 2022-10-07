@@ -57,7 +57,7 @@ Speaker2    00:30:31    Better.
 
 Speaker5    00:30:32    Yes. Much better.
 
-Speaker2    00:30:33    Perfect. Sorry. I have a very large screen. I think not see the difference when I present. So if everyone is good, we can go ahead. If we're having any problem, let me know, or just ask and we can go, we can go through them.  
+Speaker2    00:30:33    Perfect. Sorry. I have a very large screen. I think not see the difference when I present. So if everyone is good, we can go ahead. If we're having any problem, let me know, or just ask and we can go, we can go through them.
 
 Speaker1    00:30:57    One point I think people might be sticking on, cause you were already signed in Francesco that people will get the spawner page and have to select the image with the correct meteor suffix.
 
@@ -73,6 +73,6 @@ Speaker2    00:51:29    Yes, there is that specific image that we selected today
 
 Speaker1    00:52:10    Cool. Well, Any questions? Did anyone get a Server or Jupyter lab running in unintending issues? Very cool. Well, thank you so much, Francesco. I really appreciate that. I mean, it's very cool needed tool for sharing and reproducing notebooks and that is I think it's basically like the default way that we manage our dependencies in our group as data scientists.
 
-Speaker2    00:52:57    Thank you Michael and thank you for inviting me. 
+Speaker2    00:52:57    Thank you Michael and thank you for inviting me.
 
-Speaker1    00:53:01    Of course. So any other questions, if not, we can jump off a couple minutes early here. Awesome. Well, thank you all so much for attending today. If you're here, you probably know how to contact community members in between meetups, but there is slack channel that we use as well as going onto our GitHub repository or GitHub page or the operate first web site are all good places to reach out to us for any questions that you might have. So thanks a lot and talk to y'all soon in a couple weeks.  
+Speaker1    00:53:01    Of course. So any other questions, if not, we can jump off a couple minutes early here. Awesome. Well, thank you all so much for attending today. If you're here, you probably know how to contact community members in between meetups, but there is slack channel that we use as well as going onto our GitHub repository or GitHub page or the operate first web site are all good places to reach out to us for any questions that you might have. So thanks a lot and talk to y'all soon in a couple weeks.

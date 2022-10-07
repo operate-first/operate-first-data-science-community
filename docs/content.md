@@ -1,6 +1,6 @@
-# Agenda + Previous Talks 
+# Agenda + Previous Talks
 
-## Upcoming 
+## Upcoming
 
 July 26th 2022
 
@@ -17,14 +17,14 @@ July 12th, 2022 - **CCO: a next generation cost optimizer for complex cloud work
 
 * Presented by Ilya Kolchinsky and Adi Yehoshua
 * In this session, learn about CCO - a novel optimization engine for minimizing cloud (AWS, Azure, etc.) costs for complex workloads (i.e., with up to hundreds/thousands of applications and/or components).
-* The goal of CCO is to calculate the best possible assignment of tasks or application components to cloud instances such that the total monetary cost is minimized or at the very least does not exceed a predefined budget. To that end, the engine periodically collects up-to-date resource prices and statistics, then utilizes advanced algorithmic approaches and machine learning to solve the optimization problem. 
+* The goal of CCO is to calculate the best possible assignment of tasks or application components to cloud instances such that the total monetary cost is minimized or at the very least does not exceed a predefined budget. To that end, the engine periodically collects up-to-date resource prices and statistics, then utilizes advanced algorithmic approaches and machine learning to solve the optimization problem.
 * This project is done jointly with the Technion, Israel Institute of Technology, as a part of a broader partnership.
 * [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup16.pdf) and [Video Recording](https://youtu.be/PxLbo1USjqU)
 
 June 28th, 2022 - **The Future of the Operate First Data Science Community**
 
 * Presented by Michael Clifford
-* The presenter will be discussing some upcoming changes to the Operate First Data Science community at large. Specifically, it's transition from its current state to an official Special Interest Group (SIG) governed by the Operate First community. He will be explaining what becoming a SIG means, reviewing the community's goals and purposes, and presenting the draft SIG charter for which community input and feedback would be much appreciated. 
+* The presenter will be discussing some upcoming changes to the Operate First Data Science community at large. Specifically, it's transition from its current state to an official Special Interest Group (SIG) governed by the Operate First community. He will be explaining what becoming a SIG means, reviewing the community's goals and purposes, and presenting the draft SIG charter for which community input and feedback would be much appreciated.
 * By the end of this talk, attendees will have a better grasp of how the Operate First Data Science community is growing as well has having the opportunity to share their opinions and provide feedback on its future direction.
 * [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup15.pdf) and [Video Recording](https://youtu.be/SsS5QvpDbdA)
 
@@ -40,7 +40,7 @@ June 14th, 2022 - **Project Thoth - Python Dependecy Management and Jupyter Note
 May 31st, 2022 - **copilot-ops: Go From Zero to DevOps Hero in Under 10 Seconds**
 
 * By Oleg Silkin
-* In the age of cloud-native computing, Kubernetes has taken the world by storm, forcing many of us to spend more time on Google than we should, just to become YAML experts. This ends up being a time-consuming process, as many of the YAMLs share a similar structure with differing values based on the specifics of your deployment. 
+* In the age of cloud-native computing, Kubernetes has taken the world by storm, forcing many of us to spend more time on Google than we should, just to become YAML experts. This ends up being a time-consuming process, as many of the YAMLs share a similar structure with differing values based on the specifics of your deployment.
 * **copilot-ops** is a CLI tool which supercharges your DevOps capabilities by allowing the user to specify what needs to be created/changed, along with some files to provide context on what values the resulting YAML should use.
 * By the end of this talk, attendees will know how to use copilot-ops to supercharge their DevOps capabilities and quickly generate or edit desired YAML files at a moment's notice. Attendees will also walk away with a basic understanding of how Generative Pre-Trained Transformer 3 (GPT-3) can be used for code-generation tasks.
 * [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup13.pdf) and [Video Recording](https://youtu.be/eB6JNAaWMUE)
@@ -63,7 +63,7 @@ May 3rd, 2022 - **Data Obfuscation Techniques**
 April 19th, 2022 - **Distributed ML workloads on OpenShift**
 
 * By Selbi Nuryyeva
-* As the datasets and models get bigger, the demand for more powerful and efficient GPUs is rapidly increasing. Oftentimes a  single GPU is not adequate for an ML use case. An alternative to upgrading the GPU hardware is to distribute the ML workload either across several GPUs on one node, or across multiple nodes each containing one or several GPUs. The ability for the latter is especially preferred when a single machine can fit only so many GPUs. 
+* As the datasets and models get bigger, the demand for more powerful and efficient GPUs is rapidly increasing. Oftentimes a  single GPU is not adequate for an ML use case. An alternative to upgrading the GPU hardware is to distribute the ML workload either across several GPUs on one node, or across multiple nodes each containing one or several GPUs. The ability for the latter is especially preferred when a single machine can fit only so many GPUs.
 * In this talk, we will explore how one can distribute a machine learning workflow across several nodes with GPU hardware in a cloud environment. We will use PyTorch to carry out the ML training and Kubeflow, Node Feature Discovery and GPU operators to distribute the ML workload.
 * The attendees will understand how to overcome the GPU hardware limits of a single node training by taking advantage of GPUs on other machines, and therefore, maximizing the utilization of GPUs in an open cloud environment.
 * [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup10.pdf) and [Video Recording](https://youtu.be/rFaoM61dglM)
@@ -71,7 +71,7 @@ April 19th, 2022 - **Distributed ML workloads on OpenShift**
 April 5th, 2022 - **AI4CI - Artificial Intelligence for Continuous Integration**
 
 * By Aakanksha Duggal, Hema Veeradhi, Karan Chauhan, Oindrilla Chatterjee and Shrey Anand
-* In this session, the speakers introduce AI4CI (Artificial Intelligence for Continuous Integration), a collection of open-source AIOps tools involving open operations data made available by Kubernetes testing and visualization platforms. 
+* In this session, the speakers introduce AI4CI (Artificial Intelligence for Continuous Integration), a collection of open-source AIOps tools involving open operations data made available by Kubernetes testing and visualization platforms.
 * The speakers will demonstrate how they developed a set of Jupyter Notebooks which are automated using Kubeflow Pipelines into repeatable processes that collect data from various open CI/CD data platforms, calculate and visualize key performance indicator metrics, build AI/ML services to support operations and create a reproducible workflow around these processes.
 * In this session, attendees learn about a set of AIOps services deployed on Operate First that they can start using and get familiarized with how to use the set of tools available on the Operate First cloud to deploy their own workloads.
 * [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup9.pdf) and [Video Recording](https://youtu.be/M4thSVYdIT0)
@@ -79,7 +79,7 @@ April 5th, 2022 - **AI4CI - Artificial Intelligence for Continuous Integration**
 March 22nd, 2022 - **Sandiego**
 
 * By Cali Dolfi
-* In this talk, get an overview of Project Sandiego out of Red Hat’s Open Source Program office. 
+* In this talk, get an overview of Project Sandiego out of Red Hat’s Open Source Program office.
 * Get an understanding of the goals of the project, the tooling currently available, and what is currently in development.
 * [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup8.pdf) and [Video Recording](https://youtu.be/wuNfy4u64-g)
 
@@ -119,11 +119,11 @@ December 14th, 2021 - **Build your own JupyterHub image with aicoe-ci**
 November 30, 2021 - **Reproducibility and Dependencies for Jupyter Notebooks**
 
 * Presented by Francesco Murdaca
-* Learn about the existing open data science platform managed by the Operate First team and how to create and share reproducible notebooks with jupyterlab-requirements available on Open Data Hub images. 
+* Learn about the existing open data science platform managed by the Operate First team and how to create and share reproducible notebooks with jupyterlab-requirements available on Open Data Hub images.
 * Get a chance to perform a tutorial live on different common cases.
-* [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup2.pdf) and [Video Recording](https://youtu.be/JqtZCsQPCKM) 
+* [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup2.pdf) and [Video Recording](https://youtu.be/JqtZCsQPCKM)
 
-November 16, 2021 - **Inaugural Meeting** 
+November 16, 2021 - **Inaugural Meeting**
 
 * Presented by Michael Clifford
 * What is Operate First for Data Science?
