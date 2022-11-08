@@ -2,8 +2,7 @@
 
 #### _Effective:_ February 8, 2022
 
-
-This policy document explains how the Operate First Data Science Community Meetup (“we” / “us” / “our”) collects, stores, and uses attendees’ personal information. If you wish to access any particular section of this Privacy Policy, use the list below to jump to that section.
+This policy document explains how the Operate First Community Meetup (“we” / “us” / “our”) collects, stores, and uses attendees’ personal information. If you wish to access any particular section of this Privacy Policy, use the list below to jump to that section.
 
 1. [Collection Of Information](#Collection-Of-Information)
 
@@ -17,16 +16,15 @@ This policy document explains how the Operate First Data Science Community Meetu
 
 6. [Contact Us](#Contact-Us)
 
-
-
 ## Collection Of Information
 
-We use Google Meet to host the meetups. Through Google Meet, we get the following information about you, when you attend the Operate First Data Science Community Meetups:
+We use Google Meet to host the meetups. Through Google Meet, we get the following information about you, when you attend the Operate First Community Meetups:
+
 1. Your name
 
-    *a.* as it appears on your Google Account, in case you join through your Google Account; or
+    _a._ as it appears on your Google Account, in case you join through your Google Account; or
 
-    *b.* as you provide in the “Your name” section, in case you join anonymously
+    _b._ as you provide in the “Your name” section, in case you join anonymously
 
 2. Email ID or phone number you used to join the event
 3. Timestamp(s) when you joined the event
@@ -61,15 +59,14 @@ We do not share information about you except as described in this Privacy Policy
 3. We have implemented technical and organizational measures to protect your personal information. We cannot guarantee these controls will provide absolute security.
 4. We may modify this Privacy Policy from time to time. When we do, we will provide notice to you by publishing the most current version and revising the date at the top of this page. If we make any material change to this policy, we will provide additional notice to you, such as by sending you an email or displaying a prominent notice on our website.
 
-If you wish to report a violation of our policies, you can either open an issue on Operate First Data Science Community Meetup [repository](https://github.com/aicoe-aiops/operate-first-data-science-community) or reach out to us privately at open-services-group@redhat.com
+If you wish to report a violation of our policies, you can either open an issue on Operate First Community Meetup [repository](https://github.com/aicoe-aiops/operate-first-data-science-community) or reach out to us privately at open-services-group@redhat.com
 
 ## References
 
-1. [https://support.google.com/a/answer/7582940 ](https://support.google.com/a/answer/7582940)
+1. [https://support.google.com/a/answer/7582940](https://support.google.com/a/answer/7582940)
 2. [https://support.google.com/meet/answer/10090454](https://support.google.com/meet/answer/10090454)
 3. [https://help.meetup.com/hc/en-us/articles/360044422391-Privacy-Policy/](https://help.meetup.com/hc/en-us/articles/360044422391-Privacy-Policy/)
 4. [https://www.termsfeed.com/public/uploads/2022/01/sample-google-analytics-privacy-policy-template.pdf](https://www.termsfeed.com/public/uploads/2022/01/sample-google-analytics-privacy-policy-template.pdf)
-
 
 ## Contact Us
 

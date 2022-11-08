@@ -1,6 +1,6 @@
-title: Operate First Data Science Community Meetup
+title: Operate First Community Meetup
 author: Operate First
-# logo: logo.png
+logo: docs/assets/logo.png
 execute:
   execute_notebooks: false
 
@@ -20,6 +20,7 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
+  favicon: docs/assets/favicon.png
   use_issues_button: true
   use_repository_button: true
   google_analytics_id: "UA-178212082-1"

@@ -1,36 +1,34 @@
-# Operate First Data Science Community Meetup
+# Operate First Community Meetup
 
-The Operate First Data Science Community Meetup is an event open to everyone interested in learning more about how various individuals, teams, and online communities are working towards democratizing the development of production-level AI.
+The Operate First Community Meetup is a biweekly event open to everyone interested in learning more about how various individuals, teams, projects, and online communities are working towards democratizing the development of open operations under the principles and ideas of Operate First (Operate, Open, Governance, and Hybrid).
 
-This meetup aims to embrace the multi-disciplinary nature of the current state of AI operations and cloud infrastructure by covering technical topics relevant to data scientists, software engineers, DevOps professionals, and statisticians alike. And all in an open public forum.
+This meetup aims to embrace the multi-disciplinary nature of the current state of operations and cloud infrastructure by covering technical topics relevant to DevOps, data scientists, SREs, software engineers, and alike. And all in an open public forum.
 
-Click [here](https://calendar.google.com/calendar/u/2?cid=N3QyMm1ydm92amNmdTZqZm5ucDRuMmtkZTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to subscribe to our event calendar!
+Click [here](https://op1.st/meetup-calendar) to subscribe to our event calendar!
 
-Open an [issue](https://github.com/aicoe-aiops/cloud-first-data-science-community/issues/new/choose) if you have a topic you’d like to share!
-
+Open an [issue](https://github.com/operate-first/operate-first-data-science-community/issues/new?assignees=&labels=&template=topic_submission.md) if you have a topic you’d like to share!
 
 ## Ways to Participate
 
-* Join our meetup every other Tuesday @ 11:00 ET on [google meet](https://meet.google.com/eyb-yegj-gji).
-* Introduce yourself on [slack](https://join.slack.com/t/operatefirst/shared_invite/zt-o2gn4wn8-O39g7sthTAuPCvaCNRnLww) in the
+* Join our meetup every other Tuesday @ 11:00 ET on [google meet](https://op1.st/meetup-gmeet).
+* Introduce yourself on [slack](https://op1.st/slack) in the
 [#data-science](https://operatefirst.slack.com/archives/C02KY881CJE) channel.
-* Present or suggest a topic by creating an issue [here](https://github.com/aicoe-aiops/cloud-first-data-science-community/issues/new/choose).
+* Present or suggest a topic by creating an issue [here](https://github.com/operate-first/operate-first-data-science-community/issues/new?assignees=&labels=&template=topic_submission.md).
 * Check out our [GitHub](https://github.com/aicoe-aiops/cloud-first-data-science-community) repo.
-* Take a look at our [agenda board](https://github.com/orgs/aicoe-aiops/projects/28).
-* Watch previous sessions on [Youtube](https://www.youtube.com/channel/UCe87bwqlGoBQs2RvMQZ5_sg)!
-* Sign up for the [mailing list](https://lists.operate-first.cloud/admin/lists/community.lists.operate-first.cloud/).
-
-
+* Take a look at our [agenda board](https://github.com/orgs/operate-first/projects/60).
+* Take a look at our [agenda board archive](https://github.com/orgs/aicoe-aiops/projects/28).
+* Watch previous sessions on [Youtube](https://op1.st/meetup-recordings)!
+* Sign up for the [mailing list](https://op1.st/mailinglist).
 
 ## Event Format
 
 * Each meetup will be online where a member(s) of the community will provide a 15-45 minute presentation on a relevant topic or project followed by a Q+A session or open discussion.
-* Meetings will be recorded and posted to our [youtube channel](https://www.youtube.com/channel/UCe87bwqlGoBQs2RvMQZ5_sg).
+* Meetings will be recorded and posted to our [youtube channel](https://op1.st/meetup-recordings).
 
 ## Privacy Policy
 
-This [policy document](privacy-policy.md) explains how the Operate First Data Science Community Meetup (“we” / “us” / “our”) collects, stores, and uses attendees’ personal information.
+This [policy document](privacy-policy.md) explains how the Operate First Community Meetup (“we” / “us” / “our”) collects, stores, and uses attendees’ personal information.
 
 ## Contact
 
-This meetup is hosted by Red Hat’s AI CoE, part of the Office of the CTO and the [Operate First initiative](https://www.operate-first.cloud/) and we can be reached by [slack](https://join.slack.com/t/operatefirst/shared_invite/zt-o2gn4wn8-O39g7sthTAuPCvaCNRnLww) or via our [email list](https://lists.operate-first.cloud/admin/lists/community.lists.operate-first.cloud/).
+This meetup is hosted by Red Hat’s ET, part of the Office of the CTO and the [Operate First initiative](https://www.operate-first.cloud/) and we can be reached by [slack](https://op1.st/slack) or via our [email list](https://op1.st/mailinglist).

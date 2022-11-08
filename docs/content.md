@@ -2,13 +2,31 @@
 
 ## Upcoming
 
-Tuesday, October 18th 2022 - S02E02 - **tbd**
+2022
+
+- Tuesday, November 15th 2022 - S02E03 - **KRUIZE HPO**
+- Tuesday, November 29th 2022 - S02E04 - **apicurio**
+- Tuesday, December 13th 2022 - ? - **tbd**
+- Tuesday, December 27th 2022 - There will be no meetup due to public holidays in some countries.
+
+2023
+
+- Tuesday, January 10th 2023 - **tbd**
+- Tuesday, January 24th 2023 - **AI4cloudop / Ray on MOC**
 
 ## Past Events
 
+November 1nd 2022 - There will be no meetup due to public holidays in some countries.
+
+October 18th 2022 - S02E02 - **The Backstage is yours.**
+
+- Presented by Tom Coufal [@tumido](https://github.com/tumido)
+- In this episode Tom Coufal is presenting his approach of using Backstage on Operate First.
+- [Video Recording](https://op1.st/meetup-S02E02)
+
 October 4th 2022 - S02E01 - **Let's go data-hunting with jaeger!**
 
-- Presented by Sally O'Malley
+- Presented by Sally O'Malley [@sallyom](https://github.com/sallyom)
 - Senior software engineer Sally Ann O'Malley describes recent additions to the Operate First cloud that simplify the collection of OpenTelemetry data.
   Catch her on K8s slack or GitHub @sallyom
 
@@ -30,7 +48,7 @@ October 4th 2022 - S02E01 - **Let's go data-hunting with jaeger!**
 
 July 26th 2022 - #17 - **Future of the Operate First Data Science Community - Expanding the organizers of the meetup**
 
-- Presented by Karsten Wade
+- Presented by Karsten Wade [@quaid](https://github.com/quaid)
 - One of the first public faces of the Operate First project was the early iterations of the Operate First Data Science Community Meetup, and it has grown to be a popular and recognizable aspect of this community. Along the way, it has had multiple hands in front of and behind the camera to curate the meetup space. The managing, organizing, and running of the meetups is a fairly well-understood process that can be run by one or two people, but should it be run by one or two people? By scaling it beyond just one pair of hands, a group of people who care about the meetup can help steward it into the future, without the meetup being dependent on one person's evolving job role.
 - Are you someone who cares about the Operate First Data Science Meetup? Can you lend some voice to the value this meetup has for you? Would you want to help make the meetup happen through a small time commitment and collaboration with a group of meetup organizers?
 - Let's have an open discussion about how we can scale the meetup process so more of us can get the benefits of helping define and continue the Data Science Meetup. Karsten will give a brief overview of the Operate First project and how data science is central to the project's mission. He'll also talk about the value of connection points like meetups, and how and why you can participate in many ways to add to this meetup's success.
@@ -46,14 +64,14 @@ July 12th, 2022 - #16 - **CCO: a next generation cost optimizer for complex clou
 
 June 28th, 2022 - #15 - **The Future of the Operate First Data Science Community**
 
-- Presented by Michael Clifford
+- Presented by Michael Clifford [@MichaelClifford](https://github.com/MichaelClifford)
 - The presenter will be discussing some upcoming changes to the Operate First Data Science community at large. Specifically, it's transition from its current state to an official Special Interest Group (SIG) governed by the Operate First community. He will be explaining what becoming a SIG means, reviewing the community's goals and purposes, and presenting the draft SIG charter for which community input and feedback would be much appreciated.
 - By the end of this talk, attendees will have a better grasp of how the Operate First Data Science community is growing as well has having the opportunity to share their opinions and provide feedback on its future direction.
 - [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup15.pdf) and [Video Recording](https://youtu.be/SsS5QvpDbdA)
 
 June 14th, 2022 - #14 - **Project Thoth - Python Dependecy Management and Jupyter Notebook Extensions**
 
-- Presented by Harshad Reddy Nalla and Maya Costantini
+- Presented by Harshad Reddy Nalla [@harshad16](https://github.com/harshad16) and Maya Costantini [@mayaCostantini](https://github.com/mayaCostantini)
 - The presenters will go over Python dependency management by Project Thoth and how to use the new extension in Jupyter Notebook experiences.
 - By the end of this session, attendees will learn the importance of reproducibility, Thoth recommendation using the Thoth CLI Thamos and how to use the Thoth Jupyterlab extension for Python projects. We will be able to manage dependencies in an easy manner benefiting from Thoth recommendations in jupyterhub or in the command line. This session would include a presentation and a demo.
 - [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup14.pdf) and [Video Recording](https://youtu.be/ixSeFDXfPq4)
@@ -76,7 +94,7 @@ May 17th, 2022 - #12 - **Bringing AI and Machine Learning into Operation**
 
 May 3rd, 2022 - #11 - **Data Obfuscation Techniques**
 
-- By Surya Prakash Pathak
+- By Surya Prakash Pathak [@suppathak](https://github.com/suppathak)
 - A common scenario encountered by data scientists is sharing confidential and sensitive data with others. A lot of data we collect today can easily be linked to an individual, household, or entity. What should we do when we need to share these data with others? One of the methods to anonymize personal and confidential data is by using data obfuscation techniques. Data obfuscation is the process of replacing sensitive information with data that looks like real production information, making it useless to malicious actors.
 - In this talk, we will get introduced to different hashing techniques used for data obfuscation. In addition to this, we will also go over the obfuscation technique we used for obfuscating meetup attendees' data.
 - [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup11.pdf) and [Video Recording](https://youtu.be/aj-THe9fFIQ)
@@ -91,7 +109,7 @@ April 19th, 2022 - #10 - **Distributed ML workloads on OpenShift**
 
 April 5th, 2022 - #09 - **AI4CI - Artificial Intelligence for Continuous Integration**
 
-- By Aakanksha Duggal, Hema Veeradhi, Karan Chauhan, Oindrilla Chatterjee and Shrey Anand
+- By Aakanksha Duggal [@aakankshaduggal](https://github.com/aakankshaduggal), Hema Veeradhi [@hemajv](https://github.com/hemajv), Karan Chauhan, Oindrilla Chatterjee [@oindrillac](https://github.com/oindrillac) and Shrey Anand
 - In this session, the speakers introduce AI4CI (Artificial Intelligence for Continuous Integration), a collection of open-source AIOps tools involving open operations data made available by Kubernetes testing and visualization platforms.
 - The speakers will demonstrate how they developed a set of Jupyter Notebooks which are automated using Kubeflow Pipelines into repeatable processes that collect data from various open CI/CD data platforms, calculate and visualize key performance indicator metrics, build AI/ML services to support operations and create a reproducible workflow around these processes.
 - In this session, attendees learn about a set of AIOps services deployed on Operate First that they can start using and get familiarized with how to use the set of tools available on the Operate First cloud to deploy their own workloads.
@@ -99,7 +117,7 @@ April 5th, 2022 - #09 - **AI4CI - Artificial Intelligence for Continuous Integra
 
 March 22nd, 2022 - #08 - **Sandiego**
 
-- By Cali Dolfi
+- By Cali Dolfi [@cdolfi](https://github.com/cdolfi)
 - In this talk, get an overview of Project Sandiego out of Red Hat’s Open Source Program office.
 - Get an understanding of the goals of the project, the tooling currently available, and what is currently in development.
 - [Slides](https://github.com/aicoe-aiops/operate-first-data-science-community/blob/main/docs/content/opfmeetup8.pdf) and [Video Recording](https://youtu.be/wuNfy4u64-g)
